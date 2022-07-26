@@ -1,0 +1,387 @@
+ 429  cd star_wars
+  430  clear
+  431  cd act1.sh
+  432  clear
+  433  mkdir empire && rebellion
+  434  clear
+  435  mkdir empire rebellion
+  436  ls
+  437  tree
+  438  cd empire
+  439  touch darth_vader.txt
+  440  ls
+  441  "...heavy breathing..." >> darth_vader.txt
+  442  echo ...heavy breathing...>>darth_vader.txt
+  443  touch emperor_palpatin.txt
+  444  ls
+  445  mv emperor_palpatin.txt emperor_palpatine.txt
+  446  ls
+  447  mkdir death_star
+  448  mv darth_varder.txt empire/death_star
+  449  ls
+  450  mv empire/darth_vader.txt empire/death_star
+  451  empire/darth_vader.txt empire/death_star/
+  452  ls
+  453  mv empire/darth_vader.txt empire/death_star/
+  454  ls
+  455  cd death_star
+  456  mv empire/darth_vader.txt death_star
+  457  mv darth_vader death_star
+  458  mv /empire/darth_vader.txt /death_star
+  459  mv /empire/darth_vader.txt /death_star/
+  460  mv empire/darth.vader.txt empire/death_star/darth_vader.txt
+  461  cd ..
+  462  mv darth_vader.txt death_star
+  463  ls
+  464  clear
+  465  ls
+  466  tree
+  467  cd..
+  468  cd ..
+  469  tree
+  470  git add
+  471  git add .
+  472  git status
+  473  git commit
+  474  clear
+  475  git clone https://github.com/sjnay/deliverable_1_star_wars.git
+  476  ls
+  477  cd sei725
+  478  mv deliverable_1_star_wars sei725
+  479  cd ..
+  480  ls
+  481  mv deliverable_1_star_wars sei725
+  482  cd sei725
+  483  ls
+  484  mv deliverable_1_star_wars deliverables
+  485  cd deliverables
+  486  ls
+  487  cd deliverable_1_star_wars
+  488  code .
+  489  mkdir star_wars
+  490  mkdir empire rebellion
+  491  tree
+  492  mv empire star_wars
+  493  ls
+  494  mv rebellion star_wars
+  495  cd star_wars
+  496  ls
+  497  touch darth_vader.txt
+  498  ls
+  499  mv darth_vader.txt empire
+  500  ls
+  501  cd empire
+  502  ls
+  503  echo ...heavy breathing...>>darth_vader.txt
+  504  touch emperor_palpatine.txt
+  505  ls
+  506  mkdir death_star
+  507  ls
+  508  mv darth_vader.txt death_star
+  509  tree
+  510  cd ..
+  511  tree
+  512  git add .
+  513  git status
+  514  git commit -m 'update act1'
+  515  git push origin master
+  516  ls
+  517  cd star_wars
+  518  ls
+  519  touch princess_leia.txt && echo Help me, Obi-Wan...You're my only hope.>>princess.leia.txt
+  520  touch princess_leia.txt && echo "Help me, Obi-Wan...You're my only hope.">>princess.leia.txt
+  521  rmd princess_leia.txt
+  522  mv princess_leia.txt princess.leia.txt
+  523  mv princess.leia.txt princess_leia.txt
+  524  clear
+  525  echo "Help me, Obi-Wan...You are my only hope.">>princess_leia.txt
+  526  touch obi_wan
+  527  mv obi_wan obi_wan.txt
+  528  touch luke_skywalker.txt
+  529  mkdir millenium_falcon
+  530  cd millenium_falcon && touch han_solo.txt chewbacca.txt
+  531  ls
+  532  mv star_wars/luke.skywalker.txt millenium_falcon
+  533  cd ..
+  534  mv luke_skywalker.txt millenium_falcon
+  535  ls
+  536  mv obi_wan.txt millenium_falcon
+  537  mv princess.leia.txt millenium_falcon
+  538  mv princess_leia.txt millenium_falcon
+  539  mv millenium_falcon death_star
+  540  mv death_star millenium_falcon
+  541  mv millenium_falcon /empire/death_star
+  542  mv star_wars/millenium_falcon star_wars/empire/death_star
+  543  mv ./millenium_falcon ./empire/death_star
+  544  git add .
+  545  git status
+  546  git commit -m 'update act2'
+  547  git push origin master
+  548  clear
+  549  cd empire
+  550  tree
+  551  cd death_star
+  552  tree
+  553  mv .millenium_falcon* death_star
+  554  mv .millenium_falcon * death_star
+  555  mv millenium_falcon * death_star
+  556  *.millenium_falcon death_star
+  557  ls
+  558  mv *millenium_falcon death_star
+  559  ls
+  560  mv death_star millenium_falcon
+  561  mv *.millenium_falcon death_star
+  562  mv *millenium_falcon death_star
+  563  mv death_star millenium_falcon
+  564  cd ..
+  565  cd death_star
+  566  ls
+  567  mv .millenium_falcon/* death_star
+  568  mv millenium_falcon/* death_star
+  569  mv millenium_falcon/* .
+  570  mv darth_vader empire
+  571  mv darth_vader death_star
+  572  mv ./millenium_falcon/darth_vader death_star
+  573  ls
+  574  mv darth_vader.txt empire
+  575  ls
+  576  mv empire darth_vader.txt
+  577  ls
+  578  mv darth_vader.txt star_wars/empire
+  579  rmd obi_wan.txt
+  580  rm obi_wan.txt
+  581  ls
+  582  mv *.txt millenium_falcon
+  583  mkdir millenium_falcon
+  584  ls
+  585  rm millenium_falcon
+  586  rdm millenium_falcon
+  587  rm -r millenium_falcon
+  588  clear
+  589  cd
+  590  sei725
+  591  git clone https://github.com/sjnay/deliverable_1_star_wars.git
+  592  code .
+  593  cd millenium_falcon
+  594  rm obi_wan.txt
+  595  ls
+  596  cd ..
+  597  ls
+  598  mv ./millenium_falcon rebellion
+  599  mv ./death_star/millenium_falcon rebellion 
+  600  mv ./death_star/rebellion millenium_falcon
+  601  cd death_star
+  602  ls
+  603  cd empire
+  604  cd ..
+  605  ls
+  606  mv rebellion millenium_falcon
+  607  mv /empire/millenium_falcon /star_wars/rebellion
+  608  ls
+  609  mv .millenium_falcon star_wars
+  610  mv . millenium_falcon star_wars
+  611  mv . millenium_falcon rebellion
+  612  mv millenium_falcon rebellion
+  613  mv rebellion millenium_falcon
+  614  mv millenium_falcon empire
+  615  mv empire millenium_falcon
+  616  ls
+  617  mv ./millenium_falcon ./rebellion
+  618  mv rebellion millenium_falcon
+  619  mv ./millenium_falcon /star_wars/rebellion
+  620  mv ./millenium_falcon /star_wars
+  621  cd
+  622  cd sei725
+  623  ls
+  624  cd deliverables
+  625  git clone https://github.com/sjnay/deliverable_1_star_wars.git
+  626  ls -a
+  627  cd sei725
+  628  cd deliverables
+  629  ls
+  630  ls -a
+  631  git clone https://github.com/sjnay/deliverable_1_star_wars.git
+  632  code .
+  633  mkdir star_wars
+  634  ls
+  635  mv star_wars delivarables
+  636  code .
+  637  mv deliverables star_wars
+  638  cd..
+  639  cd ..
+  640  sei725
+  641  ls
+  642  cd deliverables
+  643  ls
+  644  code .
+  645  mkdir star_wars
+  646  cd star_wars
+  647  mkdir empire rebellion
+  648  ls
+  649  cd empire && touch darth_vader.txt
+  650  echo "...heavy breathing...">>darth_vader.txt
+  651  touch emperor_palpatine.txt
+  652  mkdir death_star
+  653  mv darth_vader.txt death_star
+  654  cd ..
+  655  git add.
+  656  git add .
+  657  cd..
+  658  cd ..
+  659  git add .
+  660  sei725
+  661  ls
+  662  cd deliverables
+  663  git clone https://github.com/sjnay/deliverable_1_star_wars.git
+  664  sei725
+  665  cd deliverables
+  666  git clone https://github.com/sjnay/deliverable_1_star_wars.git
+  667  code .
+  668  mkdir star_wars
+  669  cd star_wars && mkdir empire rebellion
+  670  ls
+  671  cd empire && touch darth_vader.txt
+  672  ls
+  673  echo "...heavy breathing...">>darth_vader.txt
+  674  touch emperor_palpatine.txt
+  675  mkdir death_star
+  676  mv darth_vader.txt death_star
+  677  cd ..
+  678  git add .
+  679  git add.
+  680  git status
+  681  sei725
+  682  ls
+  683  deliverables
+  684  ls
+  685  git clone https://github.com/sjnay/deliverable1.git
+  686  code .
+  687  clear
+  688  git status
+  689  code .
+  690  git status
+  691  cd ..
+  692  git config
+  693  git config --global user.name "sjnay"
+  694  get config --global user.email "samanthajnay@gmail.com"
+  695  git config --global user.email "samanthajnay@gmail.com"
+  696  git config --global --list
+  697  sei725
+  698  cd deliverables
+  699  sei725
+  700  cd deliverables
+  701  git clone https://github.com/sjnay/deliverable1.git
+  702  sei725
+  703  cd sei725
+  704  ls
+  705  mkdir sei725
+  706  ls
+  707  cd sei 725
+  708  cd sei725
+  709  git clonehttps://github.com/sjnay/deliverable1.git
+  710  git clone https://github.com/sjnay/deliverable1.git
+  711  code .
+  712  git status
+  713* git init
+  714* git clone https://github.com/sjnay/deliverable1.git
+  715  git init
+  716  git status
+  717  clear
+  718  mkdir
+  719  mkdirclear
+  720  clear
+  721  mkdir star_wars
+  722  mkdir empire rebellion
+  723  rm -r empire
+  724  rm -r rebellion
+  725  clear
+  726  cd star_wars
+  727  mkdir empire rebellion
+  728  cd empire && touch darth_vader.txt
+  729  echo "...heavy breathing...">>darth_vader.txt
+  730  touch emperor_palpatine.txt
+  731  mkdir death_star
+  732  mv darth_vader.txt death_star
+  733  git status
+  734  git add .
+  735  git status
+  736  get commit -m "Complete Act1"
+  737  git commit -m "Complete Act1"
+  738  git push origin main
+  739  git push origin master
+  740  clear
+  741  git status
+  742  clear
+  743  cd ..
+  744  touch princess_leia.txt && echo "Help me, Obi-Wan...You're my only hope.">>princess_leia.txt
+  745  touch obi_wan.txt luke.skywalker.txt
+  746  mkdir millenium_falcon
+  747  cd millenium_falcon && touch han_solo.txt chewbacca.txt
+  748  cd ..
+  749  mv luke_skywalker.txt millenium_falcon
+  750  mv .luke_skywalker.txt ./millenium_falcon
+  751  mv /star_wars/luke_skywalker/ /star_wars/millenium_falcon/
+  752  mv star_wars/luke_skywalker starwars/millenium_falcon
+  753  ls
+  754  mv star_wars/luke_skywalker.txt star_wars/millenium_falcon
+  755  mv /star_wars/luke_skywalker/ /star_wars/millenium_falcon/
+  756  ls
+  757  star_wars/luke.skywalker.txt star_wars/millenium_falcon
+  758  mv luke.skywalker.txt millenium_falcon
+  759  tree
+  760  mv star_wars/millenium_falcon star_wars/empire/death_star
+  761  /star_wars/millenium_falcon/ /star_wars/empire/death_star/
+  762  millenium_falcon/ empire/death_star/
+  763  mv millenium_falcon/ empire/death_star/
+  764  git add .
+  765  git status
+  766  git commit -m 'Complete Act2'
+  767  git push origin main
+  768* cd sei725
+  769* git clone https://github.com/sjnay/deliverable1.git
+  770* code .
+  771  tree
+  772  millenium_falcon/* death_star/
+  773  mv millenium_falcon/* death_star/
+  774  mv millenium_falcon/ * death_star/
+  775  ls
+  776  cd empire
+  777  mv death_star/millenium_falcon/* death_star/
+  778  cd star_wars
+  779  cd ..
+  780  mv princess_leia.txt empire/death_star/
+  781  mv obi_wan.txt empire/death_star/
+  782  rm obi_wan.txt
+  783  cd empire
+  784  cd death_star
+  785  rm obi_wan.txt
+  786  mv chewbacca.txt millenum_falcon/
+  787  cd millenium_falcon
+  788  mv chewbacca.txt millenium_falcon/
+  789  cd death_star
+  790  cd ..
+  791  mv chewbacca.txt millenium_falcon/
+  792  mv han_solo.txt millenium_falcon/
+  793  mv luke.skywalker.txt millenium_falcon/
+  794  mv princess_leia.txt millenium_falcon/
+  795  tree
+  796  cd ..
+  797  tree
+  798  cd ..
+  799  tree
+  800  mv empire/death_star/millenium_falcon/ rebellion/
+  801  mv empire/death_star/darth_vader.txt empire/
+  802  tree
+  803  cd empire
+  804  rm death_star
+  805  rm -r death_star
+  806  tree
+  807  cd ..
+  808  tree
+  809  git add .
+  810  git status
+  811  git commit -m "Complete Act3"
+  812  git push origin main
+  813  history | tail -n 250
+  814  history | tail -n 812
+  815  history | tail n 386
